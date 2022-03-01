@@ -1,0 +1,18 @@
+{
+    "name": "ali_omid_alchemist/user-manager",
+    "description": "To manage users, do not use duplicate code",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AliOmidAlchemist\\UserManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aliomid1",
+            "email": "aomid5182@gamil.com"
+        }
+    ],
+    "require": {}
+}
