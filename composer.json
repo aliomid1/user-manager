@@ -3,6 +3,7 @@
     "description": "To manage users, do not use duplicate code",
     "type": "library",
     "license": "MIT",
+    "version": "0.0.1",
     "autoload": {
         "psr-4": {
             "AliOmidAlchemist\\UserManager\\": "src/"
