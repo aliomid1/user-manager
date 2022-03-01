@@ -3,7 +3,7 @@
     "description": "To manage users, do not use duplicate code",
     "autoload": {
         "psr-4": {
-            "AliOmidAlchemist\\UserManager\\": "src/"
+            "AliOmid1\\UserManager\\": "src/"
         }
     },
     "authors": [
