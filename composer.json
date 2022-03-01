@@ -1,5 +1,5 @@
 {
-    "name": "aliomid1/UserManager",
+    "name": "aliomid1/user-manager",
     "description": "To manage users, do not use duplicate code",
     "autoload": {
         "psr-4": {
